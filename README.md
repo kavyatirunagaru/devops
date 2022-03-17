@@ -1,1 +1,1 @@
-# sampledevops
+# sample devops
